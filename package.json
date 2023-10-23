@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-portfolio-minimal-theme",
+  "name": "Pathomics",
   "version": "1.0.0",
-  "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
+  "description": "Our goal at Pathomics is to create simplicity from complexity. We deliver a comprehensive suite of AI-based computer vision in an easy to use interface, the Pathomics Insight Engine, which enables decision makers to extract meaningful insights from rich multiplex datasets.",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
