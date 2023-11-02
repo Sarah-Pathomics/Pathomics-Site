@@ -1,20 +1,20 @@
 {
-  "intro": "Hej",
+  "intro": "",
   "heroPhoto": {
-    "src": "../../images/lego-dummy.png",
-    "alt": "My Photo"
+    "src": "../../images/pathomics-cropped.png",
+    "alt": "Pathomics Logo"
   },
   "image": {
-    "src": "../../images/waving-hand.png",
-    "alt": "Waving Hand Emoji"
+    "src": "",
+    "alt": ""
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "Pathomics.io",
   "subtitle": {
-    "prefix": "I do all the setup ",
-    "highlight": "for you",
+    "prefix": "From images to ",
+    "highlight": "actionable insights",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "Our goal at Pathomics is to create simplicity from complexity. We deliver a comprehensive suite of AI-based computer vision in an easy to use interface, the Pathomics Insight Engine, which enables decision makers to extract meaningful insights from rich multiplex datasets.",
   "socialProfiles": {
     "from": ["LinkedIn", "Medium", "Github", "Mail"],
     "showIcons": false
