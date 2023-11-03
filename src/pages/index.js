@@ -16,7 +16,7 @@ export default function IndexPage() {
       <Seo title="pathomics.io" />
       <Page useSplashScreenAnimation>
         <HeroSection sectionId="hero" />
-        <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} />
+        {/* <ArticlesSection sectionId="articles" heading="Latest Articles" sources={['Medium']} /> */}
         <AboutSection sectionId="about" heading="About" />
         <InterestsSection sectionId="Specialites" heading="Specialties" />
         <ProjectsSection sectionId="features" heading="Built-in Features" />

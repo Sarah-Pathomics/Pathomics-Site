@@ -37,7 +37,7 @@
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
-        { "label": "Blog", "url": "/blog" },
+        { "label": "Wiki", "url": "https://pathomics.notion.site/0dfafb62818e4e748d5293648b9a477e?v=d6fb45233d1b41ffbb4efd02c952de05" },
         { "label": "Features", "url": "/#features" },
         { "label": "Github", "url": "/#github" }
       ],
