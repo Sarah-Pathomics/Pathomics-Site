@@ -1,49 +1,63 @@
 {
   "interests": [
     {
-      "label": "FEATURE 1",
+      "label": "Quantitative Analysis",
       "image": {
         "src": "../../images/joystick.png",
         "alt": ""
       }
     },
     {
-      "label": "FEATURE 2",
+      "label": "Digital Pathology",
       "image": {
         "src": "../../images/notebook.png",
         "alt": ""
       }
     },
     {
-      "label": "FEATURE 3",
+      "label": "Image Analysis",
       "image": {
         "src": "../../images/nail-polish.png",
         "alt": ""
       }
     },
     {
-      "label": "FEATURE 4",
+      "label": "Image Segmentation",
       "image": {
         "src": "../../images/medium.png",
         "alt": ""
       }
     },
     {
-      "label": "FEATURE 5",
+      "label": "Supervised Classification",
       "image": {
         "src": "../../images/gem-stone.png",
         "alt": ""
       }
     },
     {
-      "label": "FEATURE 6",
+      "label": "Unsupervised Classification",
       "image": {
         "src": "../../images/mobile-phone.png",
         "alt": ""
       }
     },
     {
-      "label": "FEATURE 7",
+      "label": "Artificial Intelligence",
+      "image": {
+        "src": "../../images/gatsby.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Machine Learning",
+      "image": {
+        "src": "../../images/gatsby.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Pharmaceutical R&D",
       "image": {
         "src": "../../images/gatsby.png",
         "alt": ""
